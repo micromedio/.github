@@ -18,7 +18,3 @@
 
 ### Other Notes
 <!--(Add any additional information that would be useful to the developer or QA tester)-->
-
-### JIRA Issue
-<!--(Change the XXX to the JIRA project code, and ### to the issue number, a link will be generated automatically if the repository is configured correctly on github Autolinks)-->
-XXX-###
