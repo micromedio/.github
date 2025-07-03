@@ -1,20 +1,20 @@
-### What kind of PR is this?
-- [ ] Feature
-- [ ] Bug
-- [ ] Documentation
-- [ ] Other
+## 🚀 Tipo de PR
+- [ ] Nova funcionalidade ✨
+- [ ] Correção de bug 🐛
+- [ ] Documentação 📝
+- [ ] Outro 🔧
 
-### What is this PR for?
-<!--(Describe what the PR is supposed to achieve)-->
+## 🎯 Objetivo
+<!-- Descreva o que essa entrega resolve ou adiciona -->
 
-### How was this achieved?
-<!--(Describe at a high level how the feature was implemented)-->
+## 🔍 Implementação
+<!-- Resumo breve de como a mudança foi feita -->
 
-### What areas of the application does it impact?
-<!--(Describe what parts of the application are impacted and *if* code touched other areas)-->
+## 🧩 Áreas impactadas
+<!-- Que partes do sistema foram afetadas? -->
 
-### How to test?
-<!--(Describe the prerequisites and the steps to test)-->
+## 🧪 Testes
+<!-- Passos ou dados para testar essa entrega -->
 
-### Other Notes
-<!--(Add any additional information that would be useful to the developer or QA tester)-->
+## 🗒️ Observações
+<!-- Algo importante para quem revisa ou testa? -->
